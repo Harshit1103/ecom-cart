@@ -150,6 +150,7 @@ export default function CheckoutPage() {
           >
             Continue Shopping
           </button>
+          
         </div>
       </div>
     );
